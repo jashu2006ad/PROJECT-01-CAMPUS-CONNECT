@@ -1,4 +1,4 @@
-# 🎓 CampusConnect
+# 🎓 Campus Connect
 
 **CampusConnect** is a full-stack campus platform designed to bring essential student services into one unified digital ecosystem.
 
